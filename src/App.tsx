@@ -18,7 +18,7 @@ function App() {
   }
   return (
     <>
-      <h2>Hello from React 19 with <a href="https://dnd-kit.com">dnd-kit</a></h2>
+      <h2>Hello from React 19 with <a href="https://dndkit.com">dnd-kit</a></h2>
       <p>
         I took this code from the dnd-kit demo. <br>
         </br>
