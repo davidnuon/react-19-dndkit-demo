@@ -1,0 +1,15 @@
+
+#droppable {
+    border: 2px solid #ddd;
+    border-radius: 0.5em;
+    padding: 1em;
+    margin: 1em;
+    border-style: dashed;
+    min-width: 300px;
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
