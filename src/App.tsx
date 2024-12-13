@@ -26,6 +26,8 @@ function App() {
         </br>
         This wasn't wokring in React 19 <span title="on December 3rd"><strong>a week ago on 12/2/24</strong></span>,
         but now it ✨ <i>does</i> ✨
+
+        <a href="https://github.com/davidnuon/react-19-dndkit-demo">View the source code</a>
       </p>
       <DndContext onDragEnd={handleDragEnd}>
         {!parent ? draggable : null}
